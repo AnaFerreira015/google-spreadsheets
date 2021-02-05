@@ -68,7 +68,8 @@ Basta usar o seguinte comando:
 ~~~
 
 ## Para executar o projeto
-`npm install`
+- `npm install`
+- `node ./index.js`
 
 ## Referências
 - [Google Apps Script](https://developers.google.com/apps-script/reference/spreadsheet/sheet)
